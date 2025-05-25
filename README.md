@@ -1,6 +1,6 @@
 # Smartphone Recommendation System
 
-![Smartphone Recommendation](https://img.freepik.com/free-vector/smartphone-shop-concept-illustration_114360-12032.jpg)
+![Smartphone Recommendation](https://avatars.mds.yandex.net/i?id=aa78e71ab6327b758c4e1a99d15fe39b_l-11379423-images-thumbs&n=13)
 
 ## Project Overview
 
