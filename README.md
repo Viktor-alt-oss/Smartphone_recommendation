@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project builds a machine learning model to recommend smartphone models based on technical specifications and user demographics. The system uses AdaBoost classifier to analyze feature importance and predict the most suitable phone models.
+ML-powered system identifying key smartphone features that matter most to buyers
 
 ## Key Features
 
