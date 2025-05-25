@@ -1,0 +1,32 @@
+# Smartphone Recommendation System
+
+![Smartphone Recommendation](https://img.freepik.com/free-vector/smartphone-shop-concept-illustration_114360-12032.jpg)
+
+## Project Overview
+
+This project builds a machine learning model to recommend smartphone models based on technical specifications and user demographics. The system uses AdaBoost classifier to analyze feature importance and predict the most suitable phone models.
+
+## Key Features
+
+- Analyzes 33 different smartphone models from various brands
+- Considers technical specs (RAM, camera, battery, etc.) and user characteristics (age, gender, occupation)
+- Identifies most important features for recommendations
+- Visualizes feature importance and model performance
+
+## Dataset
+
+The dataset contains:
+- Smartphone technical specifications (brand, model, OS, memory, camera, etc.)
+- User ratings (1-10 scale)
+- User demographic information (age, gender, occupation)
+
+## Implementation
+
+```python
+# Main workflow
+1. Data loading and merging
+2. Feature engineering (one-hot encoding)
+3. AdaBoost classifier training
+4. Hyperparameter tuning (n_estimators)
+5. Feature importance analysis
+6. Visualization of results
